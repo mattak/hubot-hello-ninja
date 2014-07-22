@@ -1,0 +1,27 @@
+{
+    "name": "hubot-hello-ninja",
+    "version": "0.0.1",
+    "description": "the most useless hubot script. just say hello to ninja",
+    "main": "index.coffee",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mattak/hubot-hello-ninja.git"
+    },
+    "keywords": [
+        "hubot-scripts",
+        "hubot",
+        "ninja slayer"
+    ],
+    "author": "mattak",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mattak/hubot-hello-ninja/issues"
+    },
+    "homepage": "https://github.com/mattak/hubot-hello-ninja",
+    "dependencies": {
+        "coffee-script": "^1.7.1"
+    }
+}
