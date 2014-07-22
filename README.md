@@ -2,6 +2,24 @@
 
 The most useless hubot script. just say hello to ninja.
 
+# install
+
+    $ npm install hubot-hello-ninja
+
+Add your external-scripts.json.
+
+    ["hubot-hello-ninja"]
+
+# usage
+
+
+    Hubot> hubot hello
+    Hubot> ドーモ、Shell=サン。Hubotです。
+    Hubot> hubot hello Takashi
+    Hubot> ドーモ、takashi=サン。Shellです。
+
+Please check help commands to see more details.
+
 # get involved
 
 1. fork it ( https://github.com/mattak/hubot-hello-ninja/fork )
